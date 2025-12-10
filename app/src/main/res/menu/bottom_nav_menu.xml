@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/books_fragment"
+        android:icon="@drawable/ic_book"
+        android:title="@string/title_books" />
+    <item
+        android:id="@+id/all_synopsis_fragment"
+        android:icon="@drawable/ic_synopsis"
+        android:title="@string/title_synopsis" />
+    <item
+        android:id="@+id/notifications_fragment"
+        android:icon="@drawable/ic_notifications"
+        android:title="@string/title_notifications" />
+</menu>

@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Practica3BookStore</string>
+    <string name="app_name">Bookstore</string>
+    <string name="title_books">Books</string>
+    <string name="title_synopsis">Synopsis</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
