@@ -22,6 +22,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".ui.settings.SettingsActivity"
+            android:label="Settings"
+            android:theme="@style/Theme.Practica3BookStore" />
+
+        <activity
+            android:name=".ui.profile.ProfileActivity"
+            android:label="Profile"
+            android:theme="@style/Theme.Practica3BookStore" />
     </application>
 
 </manifest>
